@@ -1,5 +1,5 @@
 # Accident and Emergency Analysis
-![header](header.jpg)
+![header](header.png)
 
 
 This project shows my ability to use Python, PostgreSQL, PowerBI, and PowerPoint in data cleaning, data migration, data visualization, and reporting.
