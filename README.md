@@ -1,6 +1,6 @@
 # Accident and Emergency Analysis
 
-This project shows my ability to use Python, PostgreSQL, PowerBI, and PowerPoint in data cleaning, data migration, data visualization, and finally reporting.
+This project shows my ability to use Python, PostgreSQL, PowerBI, and PowerPoint in data cleaning, data migration, data visualization, and reporting.
 
 
 ### Files:
